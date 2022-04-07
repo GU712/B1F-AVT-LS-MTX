@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-AVT-LS-MTX/main/C-SRS-AVT-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1F-AVT-LS-MTX/main/C-SRS-AVT-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Bem-vindos à Terra (2021)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-AVT-LS-MTX/main/C3-SRS-Bem.Vindos.A.Terra-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1F-AVT-LS-MTX/main/C3-SRS-Bem.Vindos.A.Terra-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/lt2lMFAyUT8o5B6IXCy2Rt26ulP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rzlxAB0COqExhbIGka3JZTSCIlr.jpg</fanart>
 <info>Assista aqui a série Bem-vindos à Terra. 
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Ed Stafford - Contra Todos (2019-2020)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-AVT-LS-MTX/main/C2-SRS-E.S.Contra.Todos-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1F-AVT-LS-MTX/main/C2-SRS-E.S.Contra.Todos-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/77rXDebsD4QaEbFsBLeysFrsl9i.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/naeepGIp0d7j28f16pzK4Qs623s.jpg</fanart>
 <info>Assista aqui os episodios da série Ed Stafford - Contra Todos. 
@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Kung Fu (1972- 1974 )[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-AVT-LS-MTX/main/C5-SRS-Kung.Fu-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1F-AVT-LS-MTX/main/C5-SRS-Kung.Fu-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/t85ZbWwwCyDzubtxyg0pwlH4rdP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/e3JxqeCqI59a0Dy8T8AJeqkhKGg.jpg</fanart>
 <info>Assista a série Kung Fu. 
@@ -55,7 +55,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]MacGyver - Profissão: Perigo (1985-1992)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-AVT-LS-MTX/main/C1-SRS-Mac.Gyver.Prof.Perigo.MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1F-AVT-LS-MTX/main/C1-SRS-Mac.Gyver.Prof.Perigo.MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/hMQnCUJVRqkdp3dudckw2auuQte.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/h88c7hh3EAiCEeKV4MPUMKFC5D.jpg</fanart>
 <info>Assista aqui os episodios da série MacGyver - Profissão: Perigo. 
@@ -69,7 +69,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Tarzan (1966-1967) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-AVT-LS-MTX/main/C4-SRS-Tarzan.Serie-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1F-AVT-LS-MTX/main/C4-SRS-Tarzan.Serie-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/keL3WMJW45o7rd5aKDPMG3bgf1p.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/m5hwoZJVMBxHQ5RpKwvqN1NlUIF.jpg</fanart>
 <info>Assista a série Tarzan. 
@@ -80,22 +80,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
-<externallink><LINKDAPAGINAALVO></externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
-<info>Assista aqui os episodios da série NOMEDASERIE. 
-[COLOR orange][B]GENERO[/B][/COLOR]
-[COLOR orange][B]00 TEMPS - 00 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-AVT-LS-MTX/main/C-SRS-AVT-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1F-AVT-LS-MTX/main/C-SRS-AVT-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -106,7 +94,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
 SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1F-AVT-LS-MTX/main/C-SRS-AVT-LS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1F-AVT-LS-MTX/main/C-SRS-AVT-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
 </channel>
